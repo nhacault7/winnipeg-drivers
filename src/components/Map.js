@@ -3,8 +3,7 @@ import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
 // Set your Mapbox access token here
-// mapboxgl.accessToken = process.env.MAPBOX_KEY;
-mapboxgl.accessToken = "pk.eyJ1Ijoid2lubmlwZWdkcml2ZXJzIiwiYSI6ImNsdG5pdTNpczA3MmMycW83anU1NG93ZWQifQ.RsITddZxpK2Rj4qmfXavvQ"
+mapboxgl.accessToken = process.env.MAPBOX_KEY;
 
 // Function to determine marker color based on colorCode
 function getMarkerColor(colorCode) {
