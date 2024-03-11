@@ -3,7 +3,8 @@ import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
 // Set your Mapbox access token here
-mapboxgl.accessToken = process.env.MAPBOX_KEY;
+// mapboxgl.accessToken = process.env.MAPBOX_KEY;
+mapboxgl.accessToken = "pk.eyJ1Ijoid2lubmlwZWdkcml2ZXJzIiwiYSI6ImNsdG5pdTNpczA3MmMycW83anU1NG93ZWQifQ.RsITddZxpK2Rj4qmfXavvQ"
 
 // Function to determine marker color based on colorCode
 function getMarkerColor(colorCode) {
@@ -21,9 +22,11 @@ function getMarkerColor(colorCode) {
 
 const Map = ({ legendCounts, updateLegendCounts }) => {
   const mapContainerRef = useRef(null);
+  const map = useRef(null);
 
   useEffect(() => {
-    const map = new mapboxgl.Map({
+    if (map.current) return;
+    map.current = new mapboxgl.Map({
       container: mapContainerRef.current,
       style: 'mapbox://styles/mapbox/navigation-night-v1',
       center: [-97.1384, 49.8801], // Winnipeg coordinates: [longitude, latitude]
@@ -37,7 +40,7 @@ const Map = ({ legendCounts, updateLegendCounts }) => {
 
     // Add navigation control to the map
     const navigationControl = new mapboxgl.NavigationControl();
-    map.addControl(navigationControl, 'top-right'); // Position the control to the top-right corner
+    map.current.addControl(navigationControl, 'top-right'); // Position the control to the top-right corner
 
     // Define marker coordinates and popup content
     fetch('archive.json')
@@ -47,7 +50,7 @@ const Map = ({ legendCounts, updateLegendCounts }) => {
           // Define popup content structure
           const popupContent = `
             <div class="popup">
-              <h3>${markerInfo.travelingStreet}\ @ ${markerInfo.crossStreet}</h3>
+              <h3>${markerInfo.travelingStreet} @ ${markerInfo.crossStreet}</h3>
               <p>${markerInfo.date} ${markerInfo.time}\n</p>
               <div class="video-container">
                 <iframe width="100%" height="100%" src="${markerInfo.url}" frameborder="0" allowfullscreen></iframe>
@@ -68,7 +71,7 @@ const Map = ({ legendCounts, updateLegendCounts }) => {
           })
             .setLngLat(markerInfo.coordinates)
             .setPopup(popup)
-            .addTo(map);
+            .addTo(map.current);
 
           // Update legend counts
           updateLegendCounts(markerInfo.type);
@@ -79,8 +82,8 @@ const Map = ({ legendCounts, updateLegendCounts }) => {
       });
 
     // Cleanup function to remove the map on component unmount
-    return () => map.remove();
-  }, []); // Empty dependency array ensures this effect runs only once
+    // return () => map.current.remove();
+  }, [updateLegendCounts]); // Empty dependency array ensures this effect runs only once
 
   return <div className="Map" ref={mapContainerRef} />;
 };
