@@ -161,53 +161,53 @@
     },
     {
         "id": 17,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
+        "date": "2021/02/02",
+        "time": "12:10:17",
+        "travelingStreet": "Pembina Hwy",
+        "crossStreet": "Dowker Ave",
+        "coordinates": [-97.151541, 49.838806],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/nTDs_Hb37n8?si=SSsBoSZDdwYD-U7n"
     },
     {
         "id": 18,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
+        "date": "2021/03/12",
+        "time": "12:28:21",
+        "travelingStreet": "Pembina Hwy",
+        "crossStreet": "Dowker Ave",
+        "coordinates": [-97.151327, 49.838787],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/r4ppttj7O0o?si=2Pg-ZA7UirD-VRS-"
     },
     {
         "id": 19,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
+        "date": "2021/09/01",
+        "time": "16:45:26",
+        "travelingStreet": "Gateway Rd",
+        "crossStreet": "Kimberly Ave",
+        "coordinates": [-97.081813, 49.920499],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/eJOdZetPckU?si=shzVHboAE_itajpi"
     },
     {
         "id": 20,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
+        "date": "2021/09/17",
+        "time": "17:00:19",
+        "travelingStreet": "Waterfront Dr",
+        "crossStreet": "Pioneer Ave",
+        "coordinates": [-97.132107, 49.892248],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/PS4EUrc8_6c?si=2fIHSTnnNHNJM8tg"
     },
     {
         "id": 21,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
+        "date": "2021/11/22",
+        "time": "11:09:11",
+        "travelingStreet": "Talbot Ave",
+        "crossStreet": "Stadacona St",
+        "coordinates": [-97.111331, 49.907842],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/6zRz53niN8Q?si=E9NOsjzIEDqhKPL1"
     },
     {
         "id": 22,
@@ -308,5 +308,15 @@
         "coordinates": [-97.0, 49.0],
         "type": "",
         "url": ""
+    },
+    {
+        "id": 32,
+        "date": "2022/10/29",
+        "time": "14:30:55",
+        "travelingStreet": "Main St",
+        "crossStreet": "St Mary Ave",
+        "coordinates": [-97.136661, 49.891920],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/qkri2EFTRio?si=lR1dGzSHcb5MRQ77"
     }
 ]
