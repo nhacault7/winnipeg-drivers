@@ -32,11 +32,11 @@ const Map = ({ legendCounts, updateLegendCounts }) => {
       style: 'mapbox://styles/mapbox/navigation-night-v1',
       center: [-97.1384, 49.8801], // Winnipeg coordinates: [longitude, latitude]
       maxBounds: new mapboxgl.LngLatBounds(
-        [-97.777515, 49.591308], 
-        [-96.500779, 50.149605]
+        [-98.317194, 49.370468], 
+        [-96.055923, 50.269497]
       ), 
       zoom: 11, // Adjust the zoom level as needed
-      minZoom: 11,
+      minZoom: 9,
     });
 
     // Add navigation control to the map
