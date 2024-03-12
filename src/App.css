@@ -21,3 +21,12 @@
   box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
   opacity: 0.8;
 }
+
+.legend-square {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-left: 5px;
+  border: 1px solid black;
+  vertical-align: middle;
+}

@@ -8,14 +8,16 @@ mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_KEY;
 // Function to determine marker color based on colorCode
 function getMarkerColor(colorCode) {
   switch (colorCode) {
-      case "Violation":
-          return "#0D99DA"; // Blue
-      case "Collision":
-          return "#CB1F05"; // Red
-      case "Winnipeg Things":
-          return "#8E3CE9"; // Purple
-      default:
-          return "#000000"; // Black
+    case "Violation":
+      return "#0D99DA"; // Blue
+    case "Close Call":
+      return "#F4D91F" // Yellow
+    case "Collision":
+      return "#CB1F05"; // Red
+    case "Winnipeg Things":
+      return "#8E3CE9"; // Purple
+    default:
+      return "#000000"; // Black
   }
 }
 
