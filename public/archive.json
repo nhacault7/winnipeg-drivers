@@ -78,5 +78,35 @@
         "coordinates": [-97.194357, 49.823773],
         "type": "Violation",
         "url": "https://www.youtube.com/embed/K8p9U64-Uic?si=RZddR9MDYkagYymB"
+    },
+    {
+        "id": 9,
+        "date": "2015/02/24",
+        "time": "16:31:28",
+        "travelingStreet": "University Cresc",
+        "crossStreet": "Abinoji Mikanah",
+        "coordinates": [-97.151768, 49.818256],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/MXA6ZmVRenw?si=2_3pa38UTlGeKwLB"
+    },
+    {
+        "id": 10,
+        "date": "2023/03/25",
+        "time": "22:10:36",
+        "travelingStreet": "King Edward St",
+        "crossStreet": "Ellice Ave",
+        "coordinates": [-97.207682, 49.894460],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/la-lQWLdyYA?si=8_S_SVFB9p2Beapm"
+    },
+    {
+        "id": 11,
+        "date": "2015/07/14",
+        "time": "15:04:50",
+        "travelingStreet": "Pembina Hwy",
+        "crossStreet": "Point Rd",
+        "coordinates": [-97.152802, 49.848070],
+        "type": "Violation",
+        "url": ""
     }
 ]
