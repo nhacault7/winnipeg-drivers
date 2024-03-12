@@ -27,7 +27,6 @@ function App() {
         <p>Collisions: {legendCounts.Collision}</p>
         <p>Winnipeg Things: {legendCounts["Winnipeg Things"]}</p>
       </div>
-      <Map />
     </div>
   );
 }
