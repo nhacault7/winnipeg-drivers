@@ -16,7 +16,7 @@
         "travelingStreet": "Portage Ave",
         "crossStreet": "Balmoral St",
         "coordinates": [-97.152571, 49.890254],
-        "type": "Violation",
+        "type": "Close Call",
         "url": "https://www.youtube.com/embed/B620C-vuqNw?si=kME4tGgjUtF0MVPQ"
     },
     {
@@ -48,5 +48,35 @@
         "coordinates": [-97.158880, 49.888563],
         "type": "Collision",
         "url": "https://www.youtube.com/embed/LmFkbOtp0Ds?si=jFgy92iLbD02x8bb"
+    },
+    {
+        "id": 6,
+        "date": "2019/03/08",
+        "time": "22:13:21",
+        "travelingStreet": "Pembina Hwy",
+        "crossStreet": "Point Rd",
+        "coordinates": [-97.152725, 49.848526],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/cqi5XdaoAKg?si=abgKXyx7uqWoX1Jd"
+    },
+    {
+        "id": 7,
+        "date": "2015/05/15",
+        "time": "08:28:21",
+        "travelingStreet": "University Cresc",
+        "crossStreet": "Dafoe Rd W",
+        "coordinates": [-97.138970, 49.805862],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/N37zh63dsH4?si=lS4xhlelYshps7Fd"
+    },
+    {
+        "id": 8,
+        "date": "2015/02/24",
+        "time": "08:20:32",
+        "travelingStreet": "McGillivray Blvd",
+        "crossStreet": "Lindenwood Dr W",
+        "coordinates": [-97.194357, 49.823773],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/K8p9U64-Uic?si=RZddR9MDYkagYymB"
     }
 ]
