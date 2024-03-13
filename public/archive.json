@@ -211,106 +211,6 @@
     },
     {
         "id": 22,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 23,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 24,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 25,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 26,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 27,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 28,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 29,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 30,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 31,
-        "date": "",
-        "time": "",
-        "travelingStreet": "",
-        "crossStreet": "",
-        "coordinates": [-97.0, 49.0],
-        "type": "",
-        "url": ""
-    },
-    {
-        "id": 32,
         "date": "2022/10/29",
         "time": "14:30:55",
         "travelingStreet": "Main St",
@@ -318,5 +218,145 @@
         "coordinates": [-97.136661, 49.891920],
         "type": "Violation",
         "url": "https://www.youtube.com/embed/qkri2EFTRio?si=lR1dGzSHcb5MRQ77"
+    },
+    {
+        "id": 23,
+        "date": "2021/12/03",
+        "time": "23:40:58",
+        "travelingStreet": "Gateway Rd",
+        "crossStreet": "Springfield Rd",
+        "coordinates": [-97.062743, 49.935609],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/_EmozniI_pw?si=370mvPY26a5HtIz2"
+    },
+    {
+        "id": 24,
+        "date": "2021/12/17",
+        "time": "17:37:28",
+        "travelingStreet": "Levis St",
+        "crossStreet": "Watt St",
+        "coordinates": [-97.103042, 49.911211],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/AI6qIJS3HsE?si=GXtBqQec9ahpHoqV"
+    },
+    {
+        "id": 25,
+        "date": "2022/01/20",
+        "time": "16:38:35",
+        "travelingStreet": "McLeod Ave",
+        "crossStreet": "Gateway East",
+        "coordinates": [-97.067340, 49.928162],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/TjgvaA-aKb4?si=BNCgEmAwDnelorT5"
+    },
+    {
+        "id": 26,
+        "date": "2022/04/06",
+        "time": "09:58:17",
+        "travelingStreet": "Rorie St",
+        "crossStreet": "Bannatyne Ave",
+        "coordinates": [-97.136711, 49.897508],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/HhHLh34eRyA?si=wMXYGCrNFCsHieOF"
+    },
+    {
+        "id": 27,
+        "date": "2022/09/16",
+        "time": "16:55:56",
+        "travelingStreet": "Main St",
+        "crossStreet": "Hartford Ave",
+        "coordinates": [-97.117575, 49.936525],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/6Kx0R49qo2A?si=yuQnMVR2vZKohoml"
+    },
+    {
+        "id": 28,
+        "date": "2022/11/22",
+        "time": "17:52:22",
+        "travelingStreet": "Plessis Rd",
+        "crossStreet": "Rosseau Ave W",
+        "coordinates": [-97.025361, 49.899572],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/z2VLopnRi5A?si=6N1ajLmeh48prNxd"
+    },
+    {
+        "id": 29,
+        "date": "2023/02/13",
+        "time": "19:05:11",
+        "travelingStreet": "Munroe Ave",
+        "crossStreet": "Gateway Rd",
+        "coordinates": [-97.089138, 49.914867],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/PxtK7UnZNyM?si=8a5ZGaD2Ex5WACnl"
+    },
+    {
+        "id": 30,
+        "date": "2023/02/25",
+        "time": "21:26:40",
+        "travelingStreet": "Panet Rd",
+        "crossStreet": "Molson St",
+        "coordinates": [-97.064127, 49.909813],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/vE3WHp0arbs?si=Yl8m_QlDj8Xg6YBF"
+    },
+    {
+        "id": 31,
+        "date": "2023/05/03",
+        "time": "18:35:20",
+        "travelingStreet": "Concordia Ave E",
+        "crossStreet": "Reg Wyatt Way",
+        "coordinates": [-97.049862, 49.913011],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/pUDAa53-St8?si=VMP6QFGzeLQLeXKf"
+    },
+    {
+        "id": 32,
+        "date": "2020/03/14",
+        "time": "13:54:24",
+        "travelingStreet": "Jubilee Ave",
+        "crossStreet": "Nassau St S",
+        "coordinates": [-97.135331, 49.857947],
+        "type": "Road Rage",
+        "url": "https://www.youtube.com/embed/U0vRDJyx6Q8?si=8bj9Fp-vis981_JQ"
+    },
+    {
+        "id": 33,
+        "date": "2020/07/12",
+        "time": "02:05:50",
+        "travelingStreet": "Stafford St",
+        "crossStreet": "Pembina Hwy",
+        "coordinates": [-97.152341, 49.856667],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/8j95irZW8g4?si=iO8Z6C2W3SFJWcQs"
+    },
+    {
+        "id": 34,
+        "date": "2023/03/14",
+        "time": "08:33:20",
+        "travelingStreet": "Salter St",
+        "crossStreet": "Inkster Blvd",
+        "coordinates": [-97.129836, 49.929441],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/n37RU13fwYw?si=rKUrRD-ihoUyC5ym"
+    },
+    {
+        "id": 35,
+        "date": "2023/10/23",
+        "time": "14:35:20",
+        "travelingStreet": "Memorial Blvd",
+        "crossStreet": "St Mary Ave",
+        "coordinates": [-97.149646, 49.888926],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/pKifbxJXMig?si=iOPxOynz1dNDq5dM"
+    },
+    {
+        "id": 0,
+        "date": "",
+        "time": "",
+        "travelingStreet": "",
+        "crossStreet": "",
+        "coordinates": [-97.0, 49.0],
+        "type": "",
+        "url": ""
     }
 ]
