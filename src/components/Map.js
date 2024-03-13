@@ -16,8 +16,10 @@ function getMarkerColor(colorCode) {
       return "#CB1F05"; // Red
     case "Winnipeg Things":
       return "#8E3CE9"; // Purple
-    default:
+    case "Road Rage":
       return "#000000"; // Black
+    default:
+      return "#FFFFFF"; // White
   }
 }
 
