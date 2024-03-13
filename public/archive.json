@@ -342,13 +342,33 @@
     {
         "id": 35,
         "date": "2023/10/23",
-        "time": "14:35:20",
+        "time": "11:38:20",
         "travelingStreet": "Memorial Blvd",
         "crossStreet": "St Mary Ave",
         "coordinates": [-97.149646, 49.888926],
         "type": "Collision",
         "url": "https://www.youtube.com/embed/pKifbxJXMig?si=iOPxOynz1dNDq5dM"
     },
+    {
+        "id": 36,
+        "date": "2024/01/02",
+        "time": "11:15:42",
+        "travelingStreet": "Narin Ave",
+        "crossStreet": "Panet Rd",
+        "coordinates": [-97.074430, 49.899314],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/xdYYvf5zYQ8?si=H-b0M2zPgpBpCpkZ"
+    },
+    {
+        "id": 37,
+        "date": "2023/04/23",
+        "time": "11:30:45",
+        "travelingStreet": "Evergreen Pl",
+        "crossStreet": "Roslyn Rd",
+        "coordinates": [-97.149480, 49.880549],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/hQAcOxm_PkM?si=u39fLFmtWCtZO799"
+    }
     {
         "id": 0,
         "date": "",
