@@ -8,6 +8,7 @@ function App() {
     Violation: 0,
     "Close Call": 0,
     Collision: 0,
+    "Road Rage": 0,
     "Winnipeg Things": 0,
   });
 
@@ -33,6 +34,9 @@ function App() {
         </p>
         <p>Collisions: {legendCounts.Collision}
           <span className="legend-square" style={{backgroundColor: '#CB1F05'}}></span>
+        </p>
+        <p>Road Rages: {legendCounts['Road Rage']}
+          <span className="legend-square" style={{backgroundColor: '#000000'}}></span>
         </p>
         <p>Winnipeg Things: {legendCounts["Winnipeg Things"]}
           <span className="legend-square" style={{backgroundColor: '#8E3CE9'}}></span>
