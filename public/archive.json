@@ -370,6 +370,26 @@
         "url": "https://www.youtube.com/embed/hQAcOxm_PkM?si=u39fLFmtWCtZO799"
     },
     {
+        "id": 38,
+        "date": "2019/04/12",
+        "time": "08:07:54",
+        "travelingStreet": "Raleigh St",
+        "crossStreet": "Linden Ave",
+        "coordinates": [-97.078497, 49.923904],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/HbXXsOyy1cA?si=nliIycoWkrc_x4Y7"
+    },
+    {
+        "id": 39,
+        "date": "2019/05/03",
+        "time": "17:20:01",
+        "travelingStreet": "Sun Valley Dr",
+        "crossStreet": "High Point Dr",
+        "coordinates": [-97.053951, 49.940756],
+        "type": "Winipeg Things",
+        "url": "https://www.youtube.com/embed/v703lez0UEo?si=r4DhMB_2Z7wYbOpB"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
