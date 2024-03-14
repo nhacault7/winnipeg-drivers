@@ -390,6 +390,56 @@
         "url": "https://www.youtube.com/embed/v703lez0UEo?si=r4DhMB_2Z7wYbOpB"
     },
     {
+        "id": 40,
+        "date": "2023/09/13",
+        "time": "11:42:10",
+        "travelingStreet": "Rorie St",
+        "crossStreet": "Bannatyne Ave",
+        "coordinates": [-97.136789, 49.897337],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/jBRDTYNsnaE?si=0ZpOxoGNU3e1Mlmy"
+    },
+    {
+        "id": 41,
+        "date": "2023/09/16",
+        "time": "18:12:04",
+        "travelingStreet": "Munroe Ave",
+        "crossStreet": "Raleigh St",
+        "coordinates": [-97.089727, 49.915035],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/u827Tmml_uE?si=JVLP5nU0dW_Y7DQG"
+    },
+    {
+        "id": 42,
+        "date": "2023/11/21",
+        "time": "16:50:28",
+        "travelingStreet": "Gateway Rd",
+        "crossStreet": "Tu-Pelo Ave",
+        "coordinates": [-97.071825, 49.928479],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/LppMbGZf9nw?si=VaBBGKEnRdAg8OjF"
+    },
+    {
+        "id": 43,
+        "date": "2023/08/31",
+        "time": "16:08:55",
+        "travelingStreet": "Peguis St",
+        "crossStreet": "Devonshire Dr W",
+        "coordinates": [-97.047164, 49.908392],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/YhzDeX8g78Q?si=lWTL-e2cKsjFaGLv"
+    },
+    {
+        "id": 44,
+        "date": "2023/11/24",
+        "time": "19:17:34",
+        "travelingStreet": "Concordia Ave",
+        "crossStreet": "Lagimodiere Blvd",
+        "coordinates": [-97.057646, 49.910718],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/iZKUbunnSzw?si=x5K8J_4rnm0c1MvP"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
