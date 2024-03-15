@@ -58,25 +58,30 @@ function App() {
           <h4>Legend</h4>
         </div>
         <hr></hr>
-        <p>
-          Violations: {legendCounts.Violation}
+        <p className="legend-entry">
           <span className="legend-square" style={{ backgroundColor: "#0D99DA" }}></span>
+          <span className="legend-name">Violations:</span>
+          <span className="legend-count">{legendCounts.Violation}</span>
         </p>
-        <p>
-          Close Calls: {legendCounts["Close Call"]}
+        <p className="legend-entry">
           <span className="legend-square" style={{ backgroundColor: "#F4D91F" }}></span>
+          <span className="legend-name">Close Calls:</span>
+          <span className="legend-count">{legendCounts["Close Call"]}</span>
         </p>
-        <p>
-          Collisions: {legendCounts.Collision}
+        <p className="legend-entry">
           <span className="legend-square" style={{ backgroundColor: "#CB1F05" }}></span>
+          <span className="legend-name">Collisions:</span>
+          <span className="legend-count">{legendCounts.Collision}</span>
         </p>
-        <p>
-          Road Rages: {legendCounts["Road Rage"]}
+        <p className="legend-entry">
           <span className="legend-square" style={{ backgroundColor: "#000000" }}></span>
+          <span className="legend-name">Road Rages:</span>
+          <span className="legend-count">{legendCounts["Road Rage"]}</span>
         </p>
-        <p>
-          Winnipeg Things: {legendCounts["Winnipeg Things"]}
+        <p className="legend-entry">
           <span className="legend-square" style={{ backgroundColor: "#8E3CE9" }}></span>
+          <span className="legend-name">Winnipeg Things:</span>
+          <span className="legend-count">{legendCounts["Winnipeg Things"]}</span>
         </p>
       </div>
     </div>
