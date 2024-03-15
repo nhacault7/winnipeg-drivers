@@ -440,6 +440,106 @@
         "url": "https://www.youtube.com/embed/iZKUbunnSzw?si=x5K8J_4rnm0c1MvP"
     },
     {
+        "id": 45,
+        "date": "2021/11/08",
+        "time": "11:09:41",
+        "travelingStreet": "Bannatyne Ave",
+        "crossStreet": "John Hirsch Pl",
+        "coordinates": [-97.135256, 49.897276],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/e0y6cCdHDj8?si=f2mzMzJ8pbSFPlKw"
+    },
+    {
+        "id": 46,
+        "date": "2023/10/24",
+        "time": "17:23:53",
+        "travelingStreet": "Munroe Ave",
+        "crossStreet": "Gateway Rd",
+        "coordinates": [-97.089022, 49.914829],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/fyhrcDm68vc?si=FWMPKhVfPWCkvsCK"
+    },
+    {
+        "id": 47,
+        "date": "2023/12/16",
+        "time": "02:39:45",
+        "travelingStreet": "McLeod Ave",
+        "crossStreet": "London St",
+        "coordinates": [-97.063601, 49.926988],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/piSQExY5ZvA?si=oPX3phIbdb4f92WV"
+    },
+    {
+        "id": 48,
+        "date": "2023/10/27",
+        "time": "12:01:12",
+        "travelingStreet": "Gateway Rd",
+        "crossStreet": "Chalmers Ave",
+        "coordinates": [-97.096014, 49.909213],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/dmUEXHnIiv4?si=DsXCJGlSV5xcLe0a"
+    },
+    {
+        "id": 49,
+        "date": "2023/12/06",
+        "time": "17:21:48",
+        "travelingStreet": "McLeod Ave",
+        "crossStreet": "Raleigh St",
+        "coordinates": [-97.071348, 49.929598],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/pnoaIaX7HHY?si=jl07aXjfsFIM72rb"
+    },
+    {
+        "id": 50,
+        "date": "2023/12/10",
+        "time": "17:29:15",
+        "travelingStreet": "Gateway Rd",
+        "crossStreet": "Munroe Ave",
+        "coordinates": [-97.089308, 49.914501],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/ibKZBS-Qux4?si=jN-ESXPpFs1xekR_"
+    },
+    {
+        "id": 51,
+        "date": "2023/12/05",
+        "time": "18:31:53",
+        "travelingStreet": "Munroe Ave",
+        "crossStreet": "Raleigh St",
+        "coordinates": [-97.089688, 49.915017],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/f5Kx5yAvGp0?si=0UWXWKt-ncuzFuqv"
+    },
+    {
+        "id": 52,
+        "date": "2023/11/30",
+        "time": "21:24:06",
+        "travelingStreet": "Panet Rd",
+        "crossStreet": "Reenders Dr",
+        "coordinates": [-97.068819, 49.903363],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/52hlZ3zKE24?si=GNx0TBuc5wBBcQL6"
+    },
+    {
+        "id": 53,
+        "date": "2023/10/17",
+        "time": "17:13:27",
+        "travelingStreet": "Gateway Rd",
+        "crossStreet": "Concordia Ave",
+        "coordinates": [-97.083451, 49.918681],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/M-tP7RwxEDg?si=CsD_ODbTWxYV2IP4"
+    },
+    {
+        "id": 54,
+        "date": "2023/06/06",
+        "time": "20:43:48",
+        "travelingStreet": "Panet Rd",
+        "crossStreet": "Keenleyside St",
+        "coordinates": [-97.068005, 49.904771],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/sQeL9t7UmB4?si=ZvTunJG32YiITM9Q"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
