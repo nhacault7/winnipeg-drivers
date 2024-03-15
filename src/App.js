@@ -24,33 +24,33 @@ function App() {
     }));
   };
 
-  // Function to handle legend focus
-  const handleLegendFocus = () => {
-    setLegendVisible(true);
+  // Function to toggle legend visibility
+  const toggleLegendVisibility = () => {
+    setLegendVisible((prevVisible) => !prevVisible);
   };
 
-  // Function to handle legend blur
-  const handleLegendBlur = () => {
-    setLegendVisible(false);
-  };
-
-  // Effect to focus legend on mount
+  // Effect to add event listener on mount
   useEffect(() => {
-    if (legendRef.current) {
-      legendRef.current.focus();
-    }
+    // Function to handle clicks outside legend
+    const handleClickOutside = (event) => {
+      if (legendRef.current && !legendRef.current.contains(event.target)) {
+        setLegendVisible(false);
+      }
+    };
+
+    // Add event listener
+    document.body.addEventListener('mousedown', handleClickOutside);
+
+    // Cleanup on unmount
+    return () => {
+      document.body.removeEventListener('mousedown', handleClickOutside);
+    };
   }, []);
 
   return (
     <div className="App">
       <Map legendCounts={legendCounts} updateLegendCounts={updateLegendCounts} />
-      <div
-        ref={legendRef}
-        className={`legend-box ${legendVisible ? "" : "collapsed"}`}
-        tabIndex={0} // Add tabIndex to make the legend focusable
-        onFocus={handleLegendFocus} // Expand legend on focus
-        onBlur={handleLegendBlur} // Collapse legend on blur
-      >
+      <div ref={legendRef} className={`legend-box ${legendVisible ? "" : "collapsed"}`} onClick={toggleLegendVisibility}>
         <div className="legend-header">
           <h4>Legend</h4>
         </div>
