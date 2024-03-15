@@ -29,21 +29,24 @@ function App() {
     setLegendVisible((prevVisible) => !prevVisible);
   };
 
-  // Effect to add event listener on mount
-  useEffect(() => {
-    // Function to handle clicks outside legend
-    const handleClickOutside = (event) => {
-      if (legendRef.current && !legendRef.current.contains(event.target)) {
-        setLegendVisible(false);
-      }
-    };
+  // Function to handle clicks outside the legend
+  const handleClickOutside = (event) => {
+    if (legendRef.current && !legendRef.current.contains(event.target)) {
+      setLegendVisible(false);
+    }
+  };
 
-    // Add event listener
+  // Effect to add event listeners on mount
+  useEffect(() => {
+    // Add event listener for clicks
     document.body.addEventListener('mousedown', handleClickOutside);
+    // Add event listener for touch events
+    document.body.addEventListener('touchstart', handleClickOutside);
 
     // Cleanup on unmount
     return () => {
       document.body.removeEventListener('mousedown', handleClickOutside);
+      document.body.removeEventListener('touchstart', handleClickOutside);
     };
   }, []);
 
