@@ -540,6 +540,16 @@
         "url": "https://www.youtube.com/embed/sQeL9t7UmB4?si=ZvTunJG32YiITM9Q"
     },
     {
+        "id": 55,
+        "date": "2020/05/06",
+        "time": "14:11:29",
+        "travelingStreet": "Main St",
+        "crossStreet": "McDermot Ave",
+        "coordinates": [-97.138941, 49.896963],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/3QUP22hClN0?si=bjbETk-ydydtggbg"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
