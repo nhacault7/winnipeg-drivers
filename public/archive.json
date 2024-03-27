@@ -580,6 +580,16 @@
         "url": "https://www.youtube.com/embed/pycsfIZtAxs?si=NE4iF5ZB0Q4dl0eH"
     },
     {
+        "id": 59,
+        "date": "2020/06/28",
+        "time": "14:15:49",
+        "travelingStreet": "McPhillips St",
+        "crossStreet": "Leila Ave",
+        "coordinates": [-97.148670, 49.952164],
+        "type": "Winnipeg Things",
+        "url": "https://www.youtube.com/embed/hirsjDOZfOc?si=fPhF0Jgu13v8d3_l"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
