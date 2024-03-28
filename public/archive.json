@@ -690,6 +690,16 @@
         "url": "https://www.youtube.com/embed/MYZrep2kF24?si=5jBHHYDKMSuDNfEQ"
     },
     {
+        "id": 70,
+        "date": "2021/06/04",
+        "time": "19:50:51",
+        "travelingStreet": "Nairn Ave",
+        "crossStreet": "Foster St",
+        "coordinates": [-97.092678, 49.902720],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/r8fdg2d4ZGY?si=cKeoiCW671rc_6xw"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
