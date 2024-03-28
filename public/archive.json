@@ -660,6 +660,16 @@
         "url": "https://www.youtube.com/embed/tcrx3ou4hf4?si=5Gc57QxhVMRymys6"
     },
     {
+        "id": 67,
+        "date": "2020/09/23",
+        "time": "18:39:54",
+        "travelingStreet": "Pembina Hwy",
+        "crossStreet": "Harrow St E",
+        "coordinates": [-97.152682, 49.855602],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/Vq_u2VDlurw?si=ca8r4G2OjeEXPCkN"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
