@@ -710,6 +710,16 @@
         "url": "https://www.youtube.com/embed/jmBbr69EM0s?si=dwsH3Zlhmy2SvFBW"
     },
     {
+        "id": 72,
+        "date": "2024/02/02",
+        "time": "11:02:28",
+        "travelingStreet": "Park Royale Way",
+        "crossStreet": "Prarie Dog Trail",
+        "coordinates": [-97.260024, 49.947846],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/_-i4iI-LImQ?si=atpSnzJOttalHPwq"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
