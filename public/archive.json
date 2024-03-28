@@ -780,6 +780,16 @@
         "url": "https://www.youtube.com/embed/8kVcpuDfuXc?si=h-YsLU8r5klkV9bI"
     },
     {
+        "id": 79,
+        "date": "2022/09/30",
+        "time": "13:40:18",
+        "travelingStreet": "St James St",
+        "crossStreet": "McCrossen St",
+        "coordinates": [-97.199635, 49.906599],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/4jRvsbaDx_I?si=caMOr8_1_noZOl-S"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
