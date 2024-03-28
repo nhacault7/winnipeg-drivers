@@ -750,6 +750,16 @@
         "url": "https://www.youtube.com/embed/Sc5JGxjSaZE?si=F4Jg2Y8CleFqH_yk"
     },
     {
+        "id": 76,
+        "date": "2022/03/21",
+        "time": "07:39:14",
+        "travelingStreet": "Notre Dame Ave",
+        "crossStreet": "McPhillips St",
+        "coordinates": [-97.171202, 49.905354],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/0YVvb_Da5kQ?si=luCfCX059YOF1Uvz"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
