@@ -790,6 +790,16 @@
         "url": "https://www.youtube.com/embed/4jRvsbaDx_I?si=caMOr8_1_noZOl-S"
     },
     {
+        "id": 80,
+        "date": "2023/04/15",
+        "time": "16:45:20",
+        "travelingStreet": "Lagimodiere Blvd",
+        "crossStreet": "Bishop Grandin Blvd",
+        "coordinates": [-97.049584, 49.840969],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/uTZjHqz3hb8?si=OZH4VkYwUXrUxcdw"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
