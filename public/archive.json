@@ -680,6 +680,16 @@
         "url": "https://www.youtube.com/embed/Jha5xdMlXTg?si=WIhkkY0mG1q49_Xk"
     },
     {
+        "id": 69,
+        "date": "2020/11/30",
+        "time": "07:39:49",
+        "travelingStreet": "Fermor Ave",
+        "crossStreet": "Dunkirk Dr",
+        "coordinates": [-97.120582, 49.850375],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/MYZrep2kF24?si=5jBHHYDKMSuDNfEQ"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
