@@ -810,6 +810,16 @@
         "url": "https://www.youtube.com/embed/kBaciDrjdsU?si=b1sawsnD3meKWMHM"
     },
     {
+        "id": 82,
+        "date": "2020/11/10",
+        "time": "19:40:06",
+        "travelingStreet": "Westbrook St",
+        "crossStreet": "William Stephenson Way",
+        "coordinates": [-97.135766, 49.893421],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/VpScFw450vo?si=TL4TevNujczBVPOT"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
