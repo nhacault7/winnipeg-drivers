@@ -650,6 +650,16 @@
         "url": "https://www.youtube.com/embed/kcUOmgAggeo?si=YBZ5UQ7Y6ZZIlxqT"
     },
     {
+        "id": 66,
+        "date": "2020/08/30",
+        "time": "21:23:21",
+        "travelingStreet": "Fermor Ave",
+        "crossStreet": "Westmount Dr",
+        "coordinates": [-97.065497, 49.855962],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/tcrx3ou4hf4?si=5Gc57QxhVMRymys6"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
