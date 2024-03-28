@@ -720,6 +720,16 @@
         "url": "https://www.youtube.com/embed/_-i4iI-LImQ?si=atpSnzJOttalHPwq"
     },
     {
+        "id": 73,
+        "date": "2022-01-06",
+        "time": "08:31:24",
+        "travelingStreet": "Portage Ave E",
+        "crossStreet": "Main St",
+        "coordinates": [-97.137036, 49.895261],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/A1uOF1Kue_4?si=nl4lnp3c5IVYfWwA"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
