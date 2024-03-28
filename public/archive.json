@@ -600,6 +600,16 @@
         "url": "https://www.youtube.com/embed/7b23oICJwMY?si=gB-vKwxf2QFqbjDS"
     },
     {
+        "id": 61,
+        "date": "2020/07/04",
+        "time": "13:05:53",
+        "travelingStreet": "Nairn Ave",
+        "crossStreet": "Watt St",
+        "coordinates": [-97.105161, 49.904774],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/pG14FixstTA?si=6IZeyxzkqq48Th6M"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
