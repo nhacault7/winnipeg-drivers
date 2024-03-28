@@ -610,6 +610,16 @@
         "url": "https://www.youtube.com/embed/pG14FixstTA?si=6IZeyxzkqq48Th6M"
     },
     {
+        "id": 62,
+        "date": "2020/07/04",
+        "time": "15:47:49",
+        "travelingStreet": "River Ave",
+        "crossStreet": "Donald St",
+        "coordinates": [-97.137292, 49.882179],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/IFV86KbMKqU?si=JxA6vJ265fka-Kdg"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
