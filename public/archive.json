@@ -740,6 +740,16 @@
         "url": "https://www.youtube.com/embed/5VC0jB0OAnY?si=H8TyxgTcH9dnuYAc"
     },
     {
+        "id": 75,
+        "date": "2022/02/02",
+        "time": "15:48:14",
+        "travelingStreet": "Portage Ave",
+        "crossStreet": "Main St",
+        "coordinates": [-97.138645, 49.895330],
+        "type": "Violation",
+        "url": "https://www.youtube.com/embed/Sc5JGxjSaZE?si=F4Jg2Y8CleFqH_yk"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
