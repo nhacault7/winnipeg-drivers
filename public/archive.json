@@ -700,6 +700,16 @@
         "url": "https://www.youtube.com/embed/r8fdg2d4ZGY?si=cKeoiCW671rc_6xw"
     },
     {
+        "id": 71,
+        "date": "2017/01/12",
+        "time": "13:46:44",
+        "travelingStreet": "Pembina Hwy",
+        "crossStreet": "Corydon Ave",
+        "coordinates": [-97.142988, 49.874253],
+        "type": "Collision",
+        "url": "https://www.youtube.com/embed/jmBbr69EM0s?si=dwsH3Zlhmy2SvFBW"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
