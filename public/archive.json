@@ -770,6 +770,16 @@
         "url": "https://www.youtube.com/embed/ieL3Lqu1QDE?si=0loQ-4pLrmcCXb8d"
     },
     {
+        "id": 78,
+        "date": "2022/05/26",
+        "time": "08:43:16",
+        "travelingStreet": "Notre Dame Ave",
+        "crossStreet": "Dublin Ave",
+        "coordinates": [-97.190022, 49.911145],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/8kVcpuDfuXc?si=h-YsLU8r5klkV9bI"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
