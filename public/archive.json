@@ -730,6 +730,16 @@
         "url": "https://www.youtube.com/embed/A1uOF1Kue_4?si=nl4lnp3c5IVYfWwA"
     },
     {
+        "id": 74,
+        "date": "2022/01/16",
+        "time": "10:15:47",
+        "travelingStreet": "Notre Dame Ave",
+        "crossStreet": "Clifton St",
+        "coordinates": [-97.184342, 49.909333],
+        "type": "Close Call",
+        "url": "https://www.youtube.com/embed/5VC0jB0OAnY?si=H8TyxgTcH9dnuYAc"
+    },
+    {
         "id": 0,
         "date": "",
         "time": "",
